@@ -35,3 +35,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # Test-API-TFT-01
+PRUEBA O1 DE LA API DE TFT RIOT GAMES.
